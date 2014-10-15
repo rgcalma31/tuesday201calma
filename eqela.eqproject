@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Tuesday201Calma
+#
+
+projectname: Tuesday201Calma
+vendorid: com.mycompany
+mainmodule: com.mycompany.tuesday201calma
